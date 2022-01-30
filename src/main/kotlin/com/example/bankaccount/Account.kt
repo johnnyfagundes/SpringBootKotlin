@@ -1,4 +1,4 @@
-package com.example.demo
+package com.example.bankaccount
 
 data class Account(
     val id: String? = null,
